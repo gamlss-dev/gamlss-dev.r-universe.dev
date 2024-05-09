@@ -24,10 +24,6 @@
         "url": "https://github.com/gamlss-dev/gamlss.dist"
     },
     {
-        "package": "gamlss.experimental",
-        "url": "https://github.com/gamlss-dev/gamlss.experimental"
-    },
-    {
         "package": "gamlss.foreach",
         "url": "https://github.com/gamlss-dev/gamlss.foreach"
     },
