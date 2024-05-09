@@ -1,0 +1,50 @@
+[
+    {
+        "package": "gamlss",
+        "url": "https://github.com/gamlss-dev/gamlss"
+    },
+    {
+        "package": "gamlss2",
+        "url": "https://github.com/gamlss-dev/gamlss2"
+    },
+    {
+        "package": "gamlss.add",
+        "url": "https://github.com/gamlss-dev/gamlss.add"
+    },
+    {
+        "package": "gamlss.cens",
+        "url": "https://github.com/gamlss-dev/gamlss.cens"
+    },
+    {
+        "package": "gamlss.data",
+        "url": "https://github.com/gamlss-dev/gamlss.data"
+    },
+    {
+        "package": "gamlss.dist",
+        "url": "https://github.com/gamlss-dev/gamlss.dist"
+    },
+    {
+        "package": "gamlss.experimental",
+        "url": "https://github.com/gamlss-dev/gamlss.experimental"
+    },
+    {
+        "package": "gamlss.foreach",
+        "url": "https://github.com/gamlss-dev/gamlss.foreach"
+    },
+    {
+        "package": "gamlss.ggplots",
+        "url": "https://github.com/gamlss-dev/gamlss.ggplots"
+    },
+    {
+        "package": "gamlss.mx",
+        "url": "https://github.com/gamlss-dev/gamlss.mx"
+    },
+    {
+        "package": "gamlss.spatial",
+        "url": "https://github.com/gamlss-dev/gamlss.spatial"
+    },
+    {
+        "package": "gamlss.tr",
+        "url": "https://github.com/gamlss-dev/gamlss.tr"
+    }
+]

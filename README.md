@@ -1,2 +1,4 @@
 # gamlss-dev.r-universe.dev
-Package configuration for gamlss-dev.R-universe.dev
+
+R-universe configuration for <https://gamlss-dev.R-universe.dev/>
+providing the development versions of the `gamlss` family of packages.
