@@ -42,5 +42,9 @@
     {
         "package": "gamlss.tr",
         "url": "https://github.com/gamlss-dev/gamlss.tr"
+    },
+    {
+        "package": "WeatherGermany",
+        "url": "https://github.com/gamlss-dev/WeatherGermany"
     }
 ]
