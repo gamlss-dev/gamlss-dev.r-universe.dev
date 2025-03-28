@@ -44,6 +44,10 @@
         "url": "https://github.com/gamlss-dev/gamlss.tr"
     },
     {
+        "package": "gamlss.prepdata",
+        "url": "https://github.com/gamlss-dev/gamlss.prepdata"
+    },
+    {
         "package": "WeatherGermany",
         "url": "https://github.com/gamlss-dev/WeatherGermany"
     }
